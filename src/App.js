@@ -1,9 +1,10 @@
 import './App.css';
+import Header from'./component/Header.js'
 
 function App() {
   return (
     <div className="App">
-      Dating app Front end
+      <Header />
     </div>
   );
 }
